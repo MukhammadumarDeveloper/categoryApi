@@ -1,3 +1,4 @@
 # categoryApi
-cd categoryAPi
+cd categoryAPi 
+#
 node index.js
